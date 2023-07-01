@@ -55,3 +55,5 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your needs.
+
+## Live Project - https://todo-app-by-pallavi.netlify.app/
